@@ -5,7 +5,7 @@ Before running the demos, install required packages by:
 ```bash
 conda create --name foxience
 conda activate foxience
-pip install requirements.txt
+./requirement.sh
 ```
 
 ## 1. Introduction to Data analysis
