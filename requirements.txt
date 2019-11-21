@@ -1,8 +1,0 @@
-tiobeindexpy
-seaborn
-matplotlib
-numpy
-pandas
---upgrade beautifulsoup4
-lxml
-thongtinthuoc
