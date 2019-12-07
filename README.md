@@ -5,6 +5,7 @@ Before running the demos, install required packages by:
 ```bash
 conda create --name foxience
 conda activate foxience
+chmod 755 requirement.sh
 ./requirement.sh
 ```
 
