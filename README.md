@@ -22,6 +22,6 @@ conda activate foxience
 Homeworks:
 
 - Define functions to calculate factorial, combination, and permutation
-- Compare execution time between your self-developed functions with the corresponding functions supported by ***scipy**
+- Compare execution time between your self-developed functions with the corresponding functions supported by ***scipy***
 - Solve the ***de Montmort's matching problem*** (defined in the demo)
 
