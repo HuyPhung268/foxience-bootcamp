@@ -17,5 +17,11 @@ conda activate foxience
  
 ## 2. Probability and Statistics (Part1)
 * Slide: [link](https://docs.google.com/presentation/d/1rp6V4iyc1PL3D4136csQZC3dFo9YNoFWIcE1veRZPr0/edit?usp=sharing)
-* Demo: 
+* Demo: [link](https://github.com/nguyenhoa93/foxience-bootcamp/blob/master/data-analysis/2.%20Probability_and_Statistics.ipynb)
+
+Homeworks:
+
+- Define functions to calculate factorial, combination, and permutation
+- Compare execution time between your self-developed functions with the corresponding functions supported by ***scipy**
+- Solve the ***de Montmort's matching problem*** (defined in the demo)
 
