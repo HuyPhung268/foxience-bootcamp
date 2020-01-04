@@ -5,7 +5,8 @@ Before running the demos, install required packages by:
 ```bash
 conda create --name foxience
 conda activate foxience
-./requirement.sh
+chmod 755 requirements.sh
+./requirements.sh
 ```
 
 ## INTRODUCTION
@@ -40,6 +41,12 @@ Homeworks:
 - Define functions to calculate factorial, combination, and permutation
 - Compare execution time between your self-developed functions with the corresponding functions supported by ***scipy***
 - Solve the ***de Montmort's matching problem*** (defined in the demo)
+
+### 3. Probability and Statistics (Part 2)
+* Date: Jan 4th, 2019
+* Slide: [link](https://docs.google.com/presentation/d/1TMyGXlD3PRmuqwhFRM8JK9QXCNfQAumJoPR7IwZkqeE/edit?usp=sharing)
+* Demo:
+* video:
 
 ## DATABASE
 - Slide: [Data type, Database, and Database Management](https://docs.google.com/presentation/d/1WPZEd9ahL6hJvrPWbxq3-pyeWXh2gza7f23JAYd_jQ4/edit?usp=sharing)
