@@ -45,7 +45,7 @@ Homeworks:
 ### 3. Probability and Statistics (Part 2)
 * Date: Jan 4th, 2019
 * Slide: [link](https://docs.google.com/presentation/d/1TMyGXlD3PRmuqwhFRM8JK9QXCNfQAumJoPR7IwZkqeE/edit?usp=sharing)
-* Demo:
+* Demo: [link](https://github.com/nguyenhoa93/foxience-bootcamp/blob/data-analysis/data-analysis/3.Probability_and_Statistics_Tests.ipynb)
 * video:
 
 ## DATABASE
