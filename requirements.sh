@@ -18,7 +18,8 @@ jupyter nbextension enable --py hide_code --user
 jupyter serverextension enable --py hide_code --user
 
 # ipywidgets extension for conda
-conda install -c conda-forge nodejs ipywidgets
+conda install -c conda-forge nodejs
+conda install -c conda-forge ipywidgets
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
 
