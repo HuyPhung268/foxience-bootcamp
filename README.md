@@ -5,8 +5,8 @@ Before running the demos, install required packages by:
 ```bash
 conda create --name foxience
 conda activate foxience
-chmod 755 requirement.sh
-./requirement.sh
+chmod 755 requirements.sh
+./requirements.sh
 ```
 
 ## INTRODUCTION
@@ -42,7 +42,15 @@ Homeworks:
 - Compare execution time between your self-developed functions with the corresponding functions supported by ***scipy***
 - Solve the ***de Montmort's matching problem*** (defined in the demo)
 
+### 3. Probability and Statistics (Part 2)
+* Date: Jan 4th, 2019
+* Slide: [link](https://docs.google.com/presentation/d/1TMyGXlD3PRmuqwhFRM8JK9QXCNfQAumJoPR7IwZkqeE/edit?usp=sharing)
+* Demo: [link](https://github.com/nguyenhoa93/foxience-bootcamp/blob/data-analysis/data-analysis/3.Probability_and_Statistics_Tests.ipynb)
+* video:
+
 ## DATABASE
 - Slide: [Data type, Database, and Database Management](https://docs.google.com/presentation/d/1WPZEd9ahL6hJvrPWbxq3-pyeWXh2gza7f23JAYd_jQ4/edit?usp=sharing)
 - Video: [link](https://www.youtube.com/watch?v=cCq78S-4c0k)
+    + Demo: [General](https://github.com/nguyenhoa93/foxience-bootcamp/blob/master/data-analysis/1.0_General_Introduction_to_Data_analysis.ipynb)
+    + Practice: [Datatype-Import-Export](https://github.com/nguyenhoa93/foxience-bootcamp/blob/master/data-analysis/1.1.%20Practice_Datatype_Import_Export.ipynb)
 

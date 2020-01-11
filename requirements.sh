@@ -6,6 +6,7 @@ pip install pandas
 pip install --upgrade beautifulsoup4
 pip install lxml
 pip install thongtinthuoc
+
 pip install ipywidgets==7.5.1
 
 pip install sqlalchemy # access and query database
