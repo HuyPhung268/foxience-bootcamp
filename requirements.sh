@@ -16,3 +16,11 @@ jupyter nbextension enable --py widgetsnbextension --user
 jupyter nbextension install --py hide_code --user
 jupyter nbextension enable --py hide_code --user
 jupyter serverextension enable --py hide_code --user
+
+# ipywidgets extension for conda
+conda install -c conda-forge nodejs ipywidgets
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+
+
+conda install -c conda-forge ipyleaflet
+jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-leaflet
